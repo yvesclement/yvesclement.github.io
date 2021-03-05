@@ -2,135 +2,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/courses/example/python/</loc>
+    <loc>https://yvesclement.github.io/courses/example/python/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/courses/example/visualization/</loc>
+    <loc>https://yvesclement.github.io/courses/example/visualization/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/courses/example/stats/</loc>
+    <loc>https://yvesclement.github.io/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://yvesclement.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/talk/example-talk/</loc>
+    <loc>https://yvesclement.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/event/</loc>
+    <loc>https://yvesclement.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/courses/</loc>
+    <loc>https://yvesclement.github.io/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/courses/example/</loc>
+    <loc>https://yvesclement.github.io/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tag/academic/</loc>
+    <loc>https://yvesclement.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/</loc>
+    <loc>https://yvesclement.github.io/authors/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://yvesclement.github.io/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/category/demo/</loc>
+    <loc>https://yvesclement.github.io/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/author/nelson-bighetti/</loc>
+    <loc>https://yvesclement.github.io/author/nelson-bighetti/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://yvesclement.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://yvesclement.github.io/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/getting-started/</loc>
+    <loc>https://yvesclement.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://yvesclement.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://yvesclement.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://yvesclement.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://yvesclement.github.io/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tag/plot/</loc>
+    <loc>https://yvesclement.github.io/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/category/r/</loc>
+    <loc>https://yvesclement.github.io/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tag/r-markdown/</loc>
+    <loc>https://yvesclement.github.io/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tag/regression/</loc>
+    <loc>https://yvesclement.github.io/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/writing-technical-content/</loc>
+    <loc>https://yvesclement.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication-type/3/</loc>
+    <loc>https://yvesclement.github.io/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication/preprint/</loc>
+    <loc>https://yvesclement.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication_types/</loc>
+    <loc>https://yvesclement.github.io/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication/</loc>
+    <loc>https://yvesclement.github.io/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tag/source-themes/</loc>
+    <loc>https://yvesclement.github.io/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/jupyter/</loc>
+    <loc>https://yvesclement.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/slides/</loc>
+    <loc>https://yvesclement.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/slides/example/</loc>
+    <loc>https://yvesclement.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tag/deep-learning/</loc>
+    <loc>https://yvesclement.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tag/demo/</loc>
+    <loc>https://yvesclement.github.io/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/external-project/</loc>
+    <loc>https://yvesclement.github.io/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/internal-project/</loc>
+    <loc>https://yvesclement.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/</loc>
+    <loc>https://yvesclement.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication-type/2/</loc>
+    <loc>https://yvesclement.github.io/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication/journal-article/</loc>
+    <loc>https://yvesclement.github.io/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/author/robert-ford/</loc>
+    <loc>https://yvesclement.github.io/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication-type/1/</loc>
+    <loc>https://yvesclement.github.io/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/publication/conference-paper/</loc>
+    <loc>https://yvesclement.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/admin/</loc>
+    <loc>https://yvesclement.github.io/admin/</loc>
   </url>
 </urlset>
