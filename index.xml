@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Yves Clément&#39;s personal webpage</title>
     <link>https://yvesclement.github.io/</link>
       <atom:link href="https://yvesclement.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Yves Clément&#39;s personal webpage</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© March 2021 - Yves Clément</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yvesclement.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <title>Yves Clément&#39;s personal webpage</title>
       <link>https://yvesclement.github.io/</link>
     </image>
     
@@ -282,7 +282,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-527486931&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-695271348&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -292,7 +292,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-527486931&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-695271348&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
