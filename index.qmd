@@ -1,5 +1,5 @@
 ---
-title: "yvesclement.github.io"
+title: "My personnal website"
 ---
 
 This is a Quarto website.
