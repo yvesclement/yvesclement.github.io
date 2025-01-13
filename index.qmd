@@ -6,6 +6,8 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
+Testing something...
+
 ```{r}
 1 + 1
 ```
