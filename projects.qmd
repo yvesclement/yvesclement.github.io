@@ -2,12 +2,8 @@
 title: "Projects"
 ---
 
-I'm adding something...
+Here is a summmary of past & present research projects.
 
-This is a Quarto website.
+# Base composition evolution
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-2 + 2
-```
+Base composition (*i.e.* the fraction of G & C bases in a genomic sequence) is...
