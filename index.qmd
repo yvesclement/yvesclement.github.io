@@ -9,7 +9,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 Testing something...
 
-Changing something
+Changing something well...
 
 ```{r}
 1 + 1
