@@ -6,4 +6,4 @@ Here is a summmary of past & present research projects.
 
 # Base composition evolution
 
-Base composition (*i.e.* the fraction of G & C bases in a genomic sequence) is...
+Base composition (*i.e.* the fraction of G & C bases in a genomic sequence) is on
