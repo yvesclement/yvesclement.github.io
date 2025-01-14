@@ -1,5 +1,6 @@
 ---
 title: "My personnal website"
+author: "Yves Clément"
 ---
 
 This is a Quarto website.
