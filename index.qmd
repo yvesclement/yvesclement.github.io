@@ -3,7 +3,7 @@ title: "My personnal website"
 author: "Yves Clément"
 ---
 
-This is a Quarto website.
+This is my personnal website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
