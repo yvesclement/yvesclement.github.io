@@ -5,6 +5,4 @@ author: "Yves Clément"
 
 This is my personnal website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-Testing something...
+![testing](images/Capture d’écran 2025-01-22 à 11.12.57.png){fig-alt="testing" fig-align="right"}
