@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "yvesclement.github.io"
+  title: "Yves Clément's personal page"
   navbar:
     left:
       - href: index.qmd
@@ -13,6 +13,22 @@ website:
         text: Projects
       - href: publications.qmd
         text: Publications
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Publications"
+        href: publications.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+    
 
 format:
   html:
