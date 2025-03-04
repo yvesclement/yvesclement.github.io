@@ -5,4 +5,4 @@ author: "Yves Clément"
 
 This is my personnal website.
 
-![testing](images/Capture d’écran 2025-01-22 à 11.12.57.png){fig-alt="testing" fig-align="right" width="5cm" height="5cm"}
+![testing](images/Capture%20d’écran%202025-01-22%20à%2011.12.57.png){fig-alt="testing" fig-align="right" width="5cm" height="5cm"}
