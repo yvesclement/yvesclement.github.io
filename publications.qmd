@@ -8,9 +8,28 @@ Feel free to ask for a PDF copy of articles behind a paywall.
 
 # Publications
 
+Paré L, Bideau L, Baduel L, Dalle C, Benchouaia M, Schneider SQ, Laplane L, [***Clément Y***]{.underline}, Vervoort M, Gazave E. 2023. [Transcriptomic landscape of posterior regeneration in the annelid *Platynereis dumerilii*.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09602-z) *BMC Genom.* 24:583.
+
+Xie J, Aiello U, [***Clément Y***]{.underline}, Haidara N, Girbig M, Schmitzova J, Pena V, Müller CW, Libri D, Porrua O. 2022. [An integrated model for termination of RNA polymerase III transcription.](https://www.science.org/doi/full/10.1126/sciadv.abm9875) *Sci. Adv.* 8:eabm9875.
+
+[***Clément Y***]{.underline}, Torbey P, Gilardi-Hebenstreit P, Crollius HR. 2020. [Enhancer–gene maps in the human and zebrafish genomes using evolutionary linkage conservation.](https://academic.oup.com/nar/article/48/5/2357/5707199) *Nucleic Acids Res.* 48:2357–2371.
+
+Courel M, [***Clément Y***]{.underline}, Bossevain C, Foretek D, Cruchez OV, Yi Z, Bénard M, Benassy M-N, Kress M, Vindry C, et al. 2019. [GC content shapes mRNA storage and decay in human cells.](https://elifesciences.org/articles/49708) *eLife* 8:e49708.
+
+[***Clément Y***]{.underline}, Sarah G, Holtz Y, Homa F, Pointet S, Contreras S, Nabholz B, Sabot F, Sauné L, Ardisson M, et al. 2017. [Evolutionary forces affecting synonymous variations in plant genomes.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006799) *PLoS Genet.* 13:e1006799.
+
+[***Clément Y***]{.underline}, Fustier M-A, Nabholz B, Glémin S. 2015. [The Bimodal Distribution of Genic GC Content Is Ancestral to Monocot Species.](https://academic.oup.com/gbe/article/7/1/336/602228) *Genome Biol. Evol.* 7:336–348.
+
+Glémin S, [***Clément Y***]{.underline}, David J, Ressayre A. 2014. [GC content evolution in coding regions of angiosperm genomes: a unifying hypothesis.](https://www.cell.com/article/S0168-9525(14)00080-8/abstract) *Trends Genet.* 30:263–270.
+
+[***Clément Y***]{.underline}, Arndt PF. 2013. [Meiotic Recombination Strongly Influences GC-Content Evolution in Short Regions in the Mouse Genome.](https://academic.oup.com/mbe/article/30/12/2612/1013325) *Mol. Biol. Evol.* 30:2612–2618.
+
+[***Clément Y***]{.underline}, Arndt PF. 2011. [Substitution Patterns Are Under Different Influences in Primates and Rodents.](https://academic.oup.com/gbe/article/doi/10.1093/gbe/evr011/576954) *Genome Biol. Evol.* 3:236–245.
+
+[***Clément Y***]{.underline}, Tavares R, Marais GAB. 2006. [Does lack of recombination enhance asymmetric evolution among duplicate genes? Insights from the *Drosophila melanogaster* genome.](https://www.sciencedirect.com/science/article/abs/pii/S037811190600521X) *Gene* 385:89–95.
+
 # Presentations
 
 ## Oral presentations
 
 ## Poster presentations
-

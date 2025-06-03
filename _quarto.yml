@@ -13,6 +13,8 @@ website:
         text: Projects
       - href: publications.qmd
         text: Publications
+      - href: teaching.qmd
+        text: Teaching
   sidebar:
     style: "docked"
     search: true
@@ -25,8 +27,14 @@ website:
         href: projects.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
     tools:
       - icon: twitter
+        href: https://twitter.com
+      - icon: bluesky
+        href: https://twitter.com
+      - icon: linkedin
         href: https://twitter.com
     
 
