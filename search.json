@@ -21,6 +21,17 @@
     ]
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "What am I teaching?",
+    "crumbs": [
+      "Home",
+      "Teaching"
+    ]
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -37,6 +48,28 @@
     "title": "Publications",
     "section": "",
     "text": "Here is a list of publications & presentations.\nFeel free to ask for a PDF copy of articles behind a paywall.",
+    "crumbs": [
+      "Home",
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "publications.html#oral-presentations",
+    "href": "publications.html#oral-presentations",
+    "title": "Publications",
+    "section": "Oral presentations",
+    "text": "Oral presentations",
+    "crumbs": [
+      "Home",
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "publications.html#poster-presentations",
+    "href": "publications.html#poster-presentations",
+    "title": "Publications",
+    "section": "Poster presentations",
+    "text": "Poster presentations",
     "crumbs": [
       "Home",
       "Publications"
