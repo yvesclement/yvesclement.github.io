@@ -6,7 +6,3 @@ author: "Yves Clément"
 This is my personnal website.
 
 ![](images/profile.png){fig-alt="This is me" fig-align="right" width="5cm"}
-
-dfsdf
-
-sdfs
