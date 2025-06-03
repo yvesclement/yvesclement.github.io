@@ -33,9 +33,7 @@ website:
       - icon: twitter
         href: https://twitter.com
       - icon: bluesky
-        href: https://twitter.com
-      - icon: linkedin
-        href: https://twitter.com
+        href: https://bsky.app
     
 
 format:
