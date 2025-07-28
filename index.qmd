@@ -1,6 +1,5 @@
 ---
-title: "Yves Clément"
-author: "Yves Clément"
+title: "Yves Clément's personal page"
 ---
 
 This is my personnal website.
