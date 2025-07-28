@@ -25,7 +25,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I am a associate professor (Maître de conférences in french) at Université Paris Cité since september 2019.",
+    "text": "I am a associate professor (Maître de conférences in french) at Université Paris Cité since september 2019.\nMost of my teaching revolves around bioinformatics, biostatistics, genetics, genomics & evolutionary biology.",
     "crumbs": [
       "Home",
       "Teaching"
@@ -36,7 +36,29 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here is a summmary of past & present research projects.\n\nBase composition evolution\nBase composition (i.e. the fraction of G & C bases in a genomic sequence) is on",
+    "text": "Here is a summmary of past & present research projects.",
+    "crumbs": [
+      "Home",
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#project-summary",
+    "href": "projects.html#project-summary",
+    "title": "Projects",
+    "section": "Project summary",
+    "text": "Project summary",
+    "crumbs": [
+      "Home",
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#publications",
+    "href": "projects.html#publications",
+    "title": "Projects",
+    "section": "Publications",
+    "text": "Publications",
     "crumbs": [
       "Home",
       "Projects"
