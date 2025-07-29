@@ -10,6 +10,19 @@ Here is a summmary of past & present research projects.
 
 ## Publications
 
+Courel, et al. 2019. [*eLife*](https://elifesciences.org/articles/49708).
+
+Clément, et al. 2017. [*PLoS Genet.*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006799)
+
+Clément, et al. 2015. [*Genome Biol. Evol.*](https://academic.oup.com/gbe/article/7/1/336/602228)
+
+Glémin S, et al. 2014. [*Trends Genet.*](https://www.cell.com/article/S0168-9525(14)00080-8/abstract)
+
+Clément & Arndt. 2013. [*Mol. Biol. Evol.*](https://academic.oup.com/mbe/article/30/12/2612/1013325)
+
+Clément & Arndt. 2011. [*Genome Biol. Evol.*](https://academic.oup.com/gbe/article/doi/10.1093/gbe/evr011/576954)
+
+
 # Identification and analysis of regulatory regions
 
 # Evolution of regeneration
