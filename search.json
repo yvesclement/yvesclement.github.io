@@ -2,20 +2,20 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Education & Employment",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "text": "sss",
     "crumbs": [
       "Home",
-      "About"
+      "Bio"
     ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Yves Clément’s personal page",
+    "title": "Yves Clément",
     "section": "",
-    "text": "This is my personnal website.",
+    "text": "Computational Biology / Comparative Genomics\nAssociate Professor (Maître de Conférences)\nUniversité Paris Cité – Institut Jacques Monod\n\n\n\n\n\n\n\n\nResearch interests & projects\n\nComparative genomics\nEvolutionary genomics\nMolecular evolution\nComputational biology\nFunctional genomics\n\nYou can find more details about my current & past research projects here.\nYou can also find a list of publications here.\n\n\nTeaching",
     "crumbs": [
       "Home"
     ]
@@ -58,7 +58,7 @@
     "href": "projects.html#publications",
     "title": "Projects",
     "section": "Publications",
-    "text": "Publications",
+    "text": "Publications\nCourel, et al. 2019. eLife.\nClément, et al. 2017. PLoS Genet.\nClément, et al. 2015. Genome Biol. Evol.\nGlémin S, et al. 2014. Trends Genet.\nClément & Arndt. 2013. Mol. Biol. Evol.\nClément & Arndt. 2011. Genome Biol. Evol.",
     "crumbs": [
       "Home",
       "Projects"
@@ -69,7 +69,7 @@
     "href": "publications.html",
     "title": "Publications & Presentations",
     "section": "",
-    "text": "Here is a list of publications.\nFeel free to ask for a PDF copy of articles behind a paywall.\n\nParé L, Bideau L, Baduel L, Dalle C, Benchouaia M, Schneider SQ, Laplane L, Clément Y, Vervoort M, Gazave E. 2023. Transcriptomic landscape of posterior regeneration in the annelid Platynereis dumerilii. BMC Genom. 24:583.\nXie J, Aiello U, Clément Y, Haidara N, Girbig M, Schmitzova J, Pena V, Müller CW, Libri D, Porrua O. 2022. An integrated model for termination of RNA polymerase III transcription. Sci. Adv. 8:eabm9875.\n\n\n\nClément Y, Torbey P, Gilardi-Hebenstreit P, Crollius HR. 2020. Enhancer–gene maps in the human and zebrafish genomes using evolutionary linkage conservation. Nucleic Acids Res. 48:2357–2371.\n\n\n\nCourel M, Clément Y, Bossevain C, Foretek D, Cruchez OV, Yi Z, Bénard M, Benassy M-N, Kress M, Vindry C, et al. 2019. GC content shapes mRNA storage and decay in human cells. eLife 8:e49708.\n\n\n\nClément Y, Sarah G, Holtz Y, Homa F, Pointet S, Contreras S, Nabholz B, Sabot F, Sauné L, Ardisson M, et al. 2017. Evolutionary forces affecting synonymous variations in plant genomes. PLoS Genet. 13:e1006799.\n\n\n\nClément Y, Fustier M-A, Nabholz B, Glémin S. 2015. The Bimodal Distribution of Genic GC Content Is Ancestral to Monocot Species. Genome Biol. Evol. 7:336–348.\n\n\n\nGlémin S, Clément Y, David J, Ressayre A. 2014. GC content evolution in coding regions of angiosperm genomes: a unifying hypothesis. Trends Genet. 30:263–270.\n\n\n\nClément Y, Arndt PF. 2013. Meiotic Recombination Strongly Influences GC-Content Evolution in Short Regions in the Mouse Genome. Mol. Biol. Evol. 30:2612–2618.\n\n\n\nClément Y, Arndt PF. 2011. Substitution Patterns Are Under Different Influences in Primates and Rodents. Genome Biol. Evol. 3:236–245.\n\n\n\nClément Y, Tavares R, Marais GAB. 2006. Does lack of recombination enhance asymmetric evolution among duplicate genes? Insights from the Drosophila melanogaster genome. Gene 385:89–95.",
+    "text": "Here is a list of publications.\nFeel free to ask for a PDF copy of articles behind a paywall.\n\nParé L, Bideau L, Baduel L, Dalle C, Benchouaia M, Schneider SQ, Laplane L, Clément Y, Vervoort M, Gazave E. 2023. Transcriptomic landscape of posterior regeneration in the annelid Platynereis dumerilii. BMC Genom. 24:583.\nXie J, Aiello U, Clément Y, Haidara N, Girbig M, Schmitzova J, Pena V, Müller CW, Libri D, Porrua O. 2022. An integrated model for termination of RNA polymerase III transcription. Sci. Adv. 8:eabm9875.\nClément Y, Torbey P, Gilardi-Hebenstreit P, Crollius HR. 2020. Enhancer–gene maps in the human and zebrafish genomes using evolutionary linkage conservation. Nucleic Acids Res. 48:2357–2371.\nCourel M, Clément Y, Bossevain C, Foretek D, Cruchez OV, Yi Z, Bénard M, Benassy M-N, Kress M, Vindry C, et al. 2019. GC content shapes mRNA storage and decay in human cells. eLife 8:e49708.\nClément Y, Sarah G, Holtz Y, Homa F, Pointet S, Contreras S, Nabholz B, Sabot F, Sauné L, Ardisson M, et al. 2017. Evolutionary forces affecting synonymous variations in plant genomes. PLoS Genet. 13:e1006799.\nClément Y, Fustier M-A, Nabholz B, Glémin S. 2015. The Bimodal Distribution of Genic GC Content Is Ancestral to Monocot Species. Genome Biol. Evol. 7:336–348.\nGlémin S, Clément Y, David J, Ressayre A. 2014. GC content evolution in coding regions of angiosperm genomes: a unifying hypothesis. Trends Genet. 30:263–270.\nClément Y, Arndt PF. 2013. Meiotic Recombination Strongly Influences GC-Content Evolution in Short Regions in the Mouse Genome. Mol. Biol. Evol. 30:2612–2618.\nClément Y, Arndt PF. 2011. Substitution Patterns Are Under Different Influences in Primates and Rodents. Genome Biol. Evol. 3:236–245.\nClément Y, Tavares R, Marais GAB. 2006. Does lack of recombination enhance asymmetric evolution among duplicate genes? Insights from the Drosophila melanogaster genome. Gene 385:89–95.",
     "crumbs": [
       "Home",
       "Publications"
