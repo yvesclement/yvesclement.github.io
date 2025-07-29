@@ -4,7 +4,21 @@ title: "Education & Employment"
 
 # Employment
 
--   **2012 - 2014** (19 months) - Post-doc \
+-   **Since 2019** - Associate professor (*Maître de conférence*) \
+      [Université Paris Cité](https://u-paris.fr/en/) \
+      [Institut Jacques Monod](https://www.ijm.fr/?lang=en) \
+      [Stem cells, regeneration and evolution team](https://stemdevevo.wordpress.com/)
+
+
+-   **2017 - 2019** - Teaching fellow (*ATER*) \
+      [Institut de Biologie de l'ENS](https://www.ibens.bio.ens.psl.eu/?lang=en), Paris, France \
+      [Team DYOGEN](https://www.ibens.bio.ens.psl.eu/?rubrique43)
+
+-   **2014 - 2017** - Post-doc \
+      [Institut de Biologie de l'ENS](https://www.ibens.bio.ens.psl.eu/?lang=en), Paris, France \
+      [Team DYOGEN](https://www.ibens.bio.ens.psl.eu/?rubrique43)
+
+-   **2012 - 2014** - Post-doc \
       [Institut des sciences de l'évolution de Montpellier](https://isem-evolution.fr/en/), Montpellier, France \
       [Phylogeny & molecular evolution team](https://isem-evolution.fr/en/equipe/phylogeny-and-molecular-evolution-team/)
 
@@ -15,6 +29,8 @@ title: "Education & Employment"
 # Education
 
 -   **2012**: PhD in bioinformatics, [Freie Universität](https://www.fu-berlin.de/en/index.html), Berlin, Germany
+
 -   **2008**: Master's degree in genetics & molecular biology - [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr/), France
+
 -   **2006**: Bachelor's degree in biology - [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr/), France
 
