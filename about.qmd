@@ -27,9 +27,8 @@ title: "Education & Employment"
       [Peter Arndt's lab](https://www.molgen.mpg.de/arndt-lab)
 
 ::: {.column-margin}
-![](images/UniversiteParisCite_monogramme_couleur_RVB.png){fig-alt="UPC" fig-align="bottom" width="4cm"}
-
-![](images/Logo_IJM.png){fig-alt="IJM" fig-align="bottom" width="4cm"} \
+![](images/UniversiteParisCite_monogramme_couleur_RVB.png){fig-alt="UPC" fig-align="bottom" width="3cm"} \
+![](images/Logo_IJM.png){fig-alt="IJM" fig-align="bottom" width="3cm"} \
 
 :::
 
