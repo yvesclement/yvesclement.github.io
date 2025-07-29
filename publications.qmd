@@ -6,11 +6,9 @@ Here is a list of publications.
 
 Feel free to ask for a PDF copy of articles behind a paywall.
 
-# Publications
 
 10. Paré L, Bideau L, Baduel L, Dalle C, Benchouaia M, Schneider SQ, Laplane L, [***Clément Y***]{.underline}, Vervoort M, Gazave E. 2023. [Transcriptomic landscape of posterior regeneration in the annelid *Platynereis dumerilii*.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09602-z) *BMC Genom.* 24:583.
 
-<!-- -->
 
 9.  Xie J, Aiello U, [***Clément Y***]{.underline}, Haidara N, Girbig M, Schmitzova J, Pena V, Müller CW, Libri D, Porrua O. 2022. [An integrated model for termination of RNA polymerase III transcription.](https://www.science.org/doi/full/10.1126/sciadv.abm9875) *Sci. Adv.* 8:eabm9875.
 
