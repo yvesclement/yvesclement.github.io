@@ -8,7 +8,7 @@ Associate Professor (*Maître de Conférences*)
 
 [Université Paris Cité](https://u-paris.fr/) -- [Institut Jacques Monod](https://https://www.ijm.fr/)
 
-::: column-margin
+::: {.column-margin}
 ![](images/profile.png){fig-alt="This is me" fig-align="right" width="5cm"}
 :::
 

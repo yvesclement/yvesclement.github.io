@@ -26,6 +26,14 @@ title: "Education & Employment"
       [Max Planck Institute for Molecular Genetics](https://www.molgen.mpg.de/en), Berlin, Germany \
       [Peter Arndt's lab](https://www.molgen.mpg.de/arndt-lab)
 
+::: {.column-margin}
+![](images/UniversiteParisCite_monogramme_couleur_RVB.png){fig-alt="UPC" fig-align="bottom" width="4cm"}
+
+![](images/Logo_IJM.png){fig-alt="IJM" fig-align="bottom" width="4cm"} \
+
+:::
+
+
 # Education
 
 -   **2012**: PhD in bioinformatics, [Freie Universität](https://www.fu-berlin.de/en/index.html), Berlin, Germany
