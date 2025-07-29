@@ -2,7 +2,7 @@
 title: "Publications & Presentations"
 ---
 
-Here is a list of publications & presentations.
+Here is a list of publications.
 
 Feel free to ask for a PDF copy of articles behind a paywall.
 
@@ -46,22 +46,4 @@ Feel free to ask for a PDF copy of articles behind a paywall.
 
 1.  [***Clément Y***]{.underline}, Tavares R, Marais GAB. 2006. [Does lack of recombination enhance asymmetric evolution among duplicate genes? Insights from the *Drosophila melanogaster* genome.](https://www.sciencedirect.com/science/article/abs/pii/S037811190600521X) *Gene* 385:89–95.
 
-# Presentations
-
-## Oral presentations
-
-2014/02 - ALPHY Meeting, Geneva, Switzerland
-
-2012/05 - EMBO Workshop, Venice, Italy
-
-2011/09 - Otto Warburg Summer School, Berlin, Germany
-
-2011/07 - SMBE Conference, Kyoto, Japan
-
-2011/04 - Evolutionary Medicine Workshop, Berlin-Buch, Germany
-
-2009/04 - BREW Meeting, Helsinki, Finland
-
-2009/03 - Deep Metazoan Phylogeny, Berlin, Germany
-
-## Poster presentations
+# 
