@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Education & Employment"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+sss

@@ -1,7 +1,29 @@
 ---
-title: "Yves Clément's personal page"
+title: "Yves Clément"
 ---
 
-This is my personnal website.
+Computational Biology / Comparative Genomics
 
+Associate Professor (*Maître de Conférences*)
+
+[Université Paris Cité](https://u-paris.fr/) -- [Institut Jacques Monod](https://https://www.ijm.fr/)
+
+::: column-margin
 ![](images/profile.png){fig-alt="This is me" fig-align="right" width="5cm"}
+:::
+
+# Research interests & projects
+
+-   Comparative genomics
+-   Evolutionary genomics
+-   Molecular evolution
+-   Computational biology
+-   Functional genomics
+
+You can find more details about my current & past research projects [here](projects.qmd).
+
+You can also find a list of publications [here](publications.qmd).
+
+# Teaching
+
+
