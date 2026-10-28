@@ -2,6 +2,13 @@
 title: "Education & Employment"
 ---
 
+# Contact information
+
+You can contact me at any of these two emails:
+
+- name dot surname at ijm dot fr
+- name dot surname at u dash pariscite dot fr
+
 # Employment
 
 - **Since 2019** - Associate professor (*Maître de conférence*)\

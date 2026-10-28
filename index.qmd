@@ -18,11 +18,7 @@ Associate Professor (*Maître de Conférences*)
 
 # Research interests & projects
 
-- Comparative genomics
-- Evolutionary genomics
-- Molecular evolution
-- Computational biology
-- Functional genomics
+My main research interests cover topics around comparative & evolutionary genomics, molecular evolution, computational biology and functional genomics.
 
 You can find more details about my current & past research projects [here](projects.qmd).
 
