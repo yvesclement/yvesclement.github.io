@@ -29,3 +29,5 @@ You can find more details about my current & past research projects [here](proje
 You can also find a list of publications [here](publications.qmd).
 
 # Teaching
+
+I mainly teach Biostatistics.
