@@ -31,9 +31,9 @@ website:
         href: teaching.qmd
     tools:
       - icon: bluesky
-        href: https://twitter.com
-      - icon: envelope-arrow-down
-        href: https://bsky.app
+        href: https://bsky.app/profile/yvesclement.bsky.social
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yvesclement/
     
 
 format:
